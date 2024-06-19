@@ -82,7 +82,7 @@ model.compile(optimizer='rmsprop',
               loss='binary_crossentropy',
               metrics=['accuracy'])
 
-# Training
+
 training = model.fit(
     train_generator,
     steps_per_epoch=nb_train_samples // batch_size,

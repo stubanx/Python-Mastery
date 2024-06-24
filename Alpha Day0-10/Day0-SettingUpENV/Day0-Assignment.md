@@ -1,4 +1,5 @@
 Now Let me guide you through the process of creating your first python file.
+
 1. Open a text editor or an Integrated Development Environment (IDE) like Visual Studio Code or PyCharm.
 2. Type the corrected Python code (without the semicolon):
    ```python

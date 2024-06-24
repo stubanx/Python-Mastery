@@ -4,7 +4,7 @@ passwd=[]
 good=None
 while(good!='yes'):
     for i in range(0,a):
-        passwd.append(chr(random.randint(0,200)))
+        passwd.append(chr(random.randint(33,123)))
     key=''.join(passwd)
     print(key)
     good=input('To confirm the password, enter yes else no:').lower()

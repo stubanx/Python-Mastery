@@ -1,6 +1,5 @@
 # Day 8: Functions
 
-Certainly! Let's explore the concept of functions in Python from the basics.
 
 ## Functions in Python
 

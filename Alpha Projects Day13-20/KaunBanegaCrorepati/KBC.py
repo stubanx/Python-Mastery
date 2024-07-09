@@ -62,7 +62,7 @@ question_bank = [
     ["What is Python?", "(1) animal", "(2) House", "(3) monkey", "(4) Ashu"],
     ["what is 1+92?", "(1) 34", "(2) 36", "(3) 76", "(4) 93"],
 ]
-correct_answers = [2,2,3,4]  # correct answers for each question
+correct_answers = [2,2,4,4]  # correct answers for each question
 levels = [0, 1000, 2000, 3000, 5000, 10000, 15000, 20000, 25000, 50000, 100000]
 dic_lifeline = {
     1: "50-50",

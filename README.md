@@ -14,6 +14,8 @@ inheritence
 polymorphism
 encapsulation
 abstraction
+decorators
+constructors
 weather apic all
 pyshortners
 pynput

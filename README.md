@@ -1,21 +1,5 @@
 # Python-Mastery
 
-Intermediate Level
-exception handling
-file handling
-what is module-package, how to use, install, import...
-math
-random
-numpy
-os
-sys
-oops-class obj
-inheritence
-polymorphism
-encapsulation
-abstraction
-decorators
-constructors
 weather apic all
 pyshortners
 pynput
@@ -24,27 +8,14 @@ gui tkinter
 selenium
 pandas
 
-
 advance
 django
 flask
 
-
-
-
-Concepts: Importing modules, exploring the Python Standard Library.
 Project: A weather app that uses a web module to fetch weather data from an API.
-Object-Oriented Programming (OOP)
-Concepts: Classes, objects, inheritance, and encapsulation.
 Project: A simple banking system with account classes and methods for depositing and withdrawing money.
-Concepts: Try-except blocks, raising exceptions.
 Project: Enhance the banking system with error handling to manage invalid inputs and failed transactions.
-Intermediate Projects
-Concepts: Combining all the above concepts.
 Project: A text-based adventure game where players can explore different locations, interact with characters, and solve puzzles.
-
-
-
 
 Advanced Level
 Advanced Data Structures

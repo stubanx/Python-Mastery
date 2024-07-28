@@ -1,6 +1,6 @@
 # Python-Mastery
-
-weather apic all
+pypdf
+weather api all
 pyshortners
 pynput
 cairosvg

